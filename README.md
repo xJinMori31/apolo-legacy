@@ -26,7 +26,7 @@
 
 ##Sketchs
 
-![Sketch](SplashSketch.png)
+![Sketch](https://cdn.discordapp.com/attachments/1200061285816082545/1238229426286624798/SplashSketch.png?ex=663e8684&is=663d3504&hm=93b017dd76f6352cc1e186674516fdad939e267afe80305939d17dd3385e954e&)
 
 ## Contacto
 - Discord: jinmori31

@@ -1,5 +1,5 @@
 # Apolo Legacy
-![SplashArt](Apolo_Legacy(1).png)
+![SplashArt](ApoloLegacy.png)
 
 **Apolo Legacy** es un emocionante juego de mazmorras en estilo dungeon crawler con un enfoque en combate intenso y exploración. Creado con Unity Engine y Spatial, este juego lleva a los jugadores a través de mazmorras llenas de peligros y tesoros. Prepárate para enfrentarte a monstruos temibles y descubrir poderosas armas en tu búsqueda para preservar el legado de Apolo.
 

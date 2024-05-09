@@ -25,7 +25,7 @@
 (Ampliaremos)
 
 ##Sketchs
-![SplashArt](SplashSketch.png)
+![Splash](SplashSketch.png)
 
 ## Contacto
 - Discord: jinmori31
